@@ -9,8 +9,8 @@ This repo contains multiple mini-projects, apps, and experiments I built while l
 
 | # | Project Name | Description | Status | ScreenShot |
 |---|--------------|-------------|--------|-----|
-| 1 | Project 1 | A simple app to Print Hello World | ✅ Completed | <img src="https://github.com/user-attachments/assets/993587cf-5f62-4e11-b5a1-a1935b5c1004" width="150"/>|
-| 2 | Project 2 | A Simple app with different Types of Cards | ✅ Completed |<img src="https://github.com/user-attachments/assets/d856250c-c1ce-4130-be05-d0acd1ed811c" width="150"/> |
+| 1 | Project 1 | A simple app to Print Hello World | ✅ Completed | <img src="https://github.com/user-attachments/assets/86683111-0b4a-4f85-b9d1-5a71c04c9196" width="150"/>|
+| 2 | Project 2 | A Simple app with different Types of Cards | ✅ Completed |<img src="https://github.com/user-attachments/assets/5b5efcd9-7af6-46d6-97eb-5a7f429caa55" width="150"/> |
 
 > I update this list as I build more apps. Each project is in its own folder with a separate README.
 
