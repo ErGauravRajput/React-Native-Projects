@@ -53,5 +53,11 @@ export const currencyByRupee: Currency[] = [
       flag: '🎰',
       symbol: '₿',
     },
-  ];
+    {
+    name: 'SWISS FRANC',
+    value: 0.01090055,
+    flag: '🇨🇭',
+    symbol: 'CHF',
+  },
+];
   

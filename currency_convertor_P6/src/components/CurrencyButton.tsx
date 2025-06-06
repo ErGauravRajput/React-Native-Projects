@@ -19,7 +19,8 @@ const currencyButton=(props:CurrencyButtonProps):JSX.Element=>{
 
 const styles=StyleSheet.create({
     buttonContainer:{
-            alignItem: 'center',
+            alignItems: 'center',
+            
     },
     flag:{
         fontSize:28,
@@ -28,8 +29,9 @@ const styles=StyleSheet.create({
     },
     country:{
         fontSize:14,
-        color:"#fff",
+        color:"#000",
         marginBottom: 4,
+        fontWeight: 'bold',
     }
 })
 
